@@ -16,4 +16,7 @@ Por se referir a óbitos acumulados do ano de 2020 e 2021, a taxa bruta de morta
 Tal estimativa foi realizada dobrando a estimativa populacional total, por sexo, faixa etária e AP do MRJ em 2020, por ainda não haver estimativas de tais populações para 2021.
 Para a taxa padronizada de mortalidade (TPM) por AP foi utilizada a estimativa populacional para o MRJ em 2020. A análise foi realizada no Software livre R. 
 
-- Disponibilizamos as bases de dados (públicas) e o script R.
+
+
+- Trabalho apresentado na 11ª SIAc – Semana de Integração Acadêmica da UFRJ 2021-2022
+- Disponibilizamos as bases de dados (públicas) e script R com as rotinas de autoria própria
